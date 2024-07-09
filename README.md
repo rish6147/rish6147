@@ -1,4 +1,4 @@
-
+![logo](https://github.com/rish6147/rish6147/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm RISHABH SINGH</h1>
 <h3 align="center">Hi there! I'm a passionate front-end developer and research enthusiast with a love for engineering innovation from India. I thrive on crafting dynamic user experiences and exploring cutting-edge technologies to push the boundaries of what's possible. Let's build something incredible together!</h3>
 
