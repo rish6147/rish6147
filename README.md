@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **ADR(ADVANCE D-ROVER RESCUE SYSTEM)**
 
-- 👨‍💻 Visit My website to view my projects: [rish6147.github.io/new_portfolio_rish/](rish6147.github.io/new_portfolio_rish/)
+- 👨‍💻 Visit My website to view my projects: https://rish6147.github.io/rishabh_portfolio_website/
 
 - 💬 Ask me about **JS,REACT,NODEJS,NOSQL**
 
